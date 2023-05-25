@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bucketbrowser-dev-145447-authRole",
+      "UnauthRoleArn": "arn:aws:iam::497948323240:role/amplify-bucketbrowser-dev-145447-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::497948323240:role/amplify-bucketbrowser-dev-145447-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bucketbrowser-dev-145447-deployment",
+      "UnauthRoleName": "amplify-bucketbrowser-dev-145447-unauthRole",
+      "StackName": "amplify-bucketbrowser-dev-145447",
+      "StackId": "arn:aws:cloudformation:us-east-1:497948323240:stack/amplify-bucketbrowser-dev-145447/091ad040-e3a3-11ed-99f5-0a523cccab59",
+      "AmplifyAppId": "d3sy83b8vzi7e2"
+    },
+    "categories": {
+      "auth": {
+        "bucketbrowser155d9c97": {}
+      },
+      "storage": {
+        "bucketbrowserstorage": {}
+      }
+    }
+  }
+}
